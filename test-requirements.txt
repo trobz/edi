@@ -1,3 +1,4 @@
 freezegun
 odoo_test_helper
 responses
+odoo14-addon-account-invoice-transmit-method @git+https://github.com/akretion/account-invoicing@14-mig-transmit_method#subdirectory=setup/account_invoice_transmit_method
